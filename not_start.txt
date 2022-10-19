@@ -1,0 +1,61 @@
+kabul
+tirana (tirane)
+yerevan
+vienna
+thimphu
+gaborone
+gitega
+yaounde
+kinshasa
+yamoussoukro
+zagreb
+havana
+roseau
+quito
+tallinn
+helsinki
+tbilisi
+guatemala city
+georgetown
+tegucigalpa
+reykjavik
+jakarta
+tehran
+jerusalem
+rome
+kingston
+tokyo
+tarawa atoll
+kuwait city
+vientiane
+riga
+tripoli
+vaduz
+vilnius
+kuala lumpur
+valletta
+ulaanbaatar
+rabat
+windhoek
+kathmandu
+wellington
+islamabad
+warsaw
+kigali
+kingstown
+riyadh
+victoria
+freetown
+honiara
+juba
+khartoum
+taipei
+tunis
+funafuti
+kampala
+kiev
+washington d.c.
+tashkent
+vatican city
+hanoi
+harare

@@ -1,0 +1,109 @@
+andorra la vella
+luanda
+canberra
+vienna
+baku
+nassau
+manama
+dhaka
+porto novo
+thimphu
+sucre
+sarajevo
+gaborone
+brasilia
+sofia
+ouagadougou
+gitega
+yaounde
+ottawa
+praia
+bangui
+n'djamena
+santiago
+bogota
+moroni
+kinshasa
+brazzaville
+san jose
+yamoussoukro
+havana
+nicosia
+prague
+djibouti
+roseau
+santo domingo
+dili
+quito
+cairo
+malabo
+asmara
+mbabana
+addis ababa
+suva
+helsinki
+libreville
+tbilisi
+accra
+bissau
+port au prince
+tegucigalpa
+new delhi
+jakarta
+rome
+tokyo
+nairobi
+pristina
+vientiane
+riga
+maseru
+monrovia
+tripoli
+antananarivo
+lilongwe
+male
+bamako
+valletta
+majuro
+chisinau
+monaco
+podgorica
+maputo
+kathmandu
+managua
+abuja
+skopje
+oslo
+lima
+manila
+doha
+kigali
+basseterre
+apia
+san marino
+sao tome
+belgrade
+victoria
+singapore
+bratislava
+ljubljana
+honiara
+mogadishu
+juba
+colombo
+paramaribo
+taipei
+dushanbe
+dodoma
+lome
+nuku'alofa
+ankara
+funafuti
+kampala
+abu dhabi
+montevideo
+port vila
+hanoi
+sana'a
+lusaka
+harare
